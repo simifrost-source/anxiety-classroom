@@ -127,7 +127,7 @@ r: *Oh nooooo it's dangerous, don't do iiiiit.*
 publish("act3",["roofhunter",22]);
 ```
 
-r: But that's exactly why we need death-defying thrills! Party hard! Carpe diem! Snort coke off a hooker's ^ass^, #YOLO!
+r: But that's exactly why we need death-defying thrills! Party hard! Carpe diem! Snort Smarties off the floor!
 
 ```
 publish("act3",["roofhunter",10]);
@@ -219,7 +219,7 @@ publish("act3-alpha", ["transition",1]);
 publish("act3",["dd",6]);
 ```
 
-r: ^Fuck^ yeah! I believe in you, babe! Kill it! <3
+r: ^Fuck^ yeah! I believe in you, kid! Kill it! <3
 
 (#act3a)
 
@@ -360,7 +360,7 @@ b: human, please...
 
 `hong({ eyes:"look_right" });`
 
-h: Oh I'm *sorry* Big Pharma doesn't approve of my self-medication.
+h: Oh I'm *sorry* you don't approve of my coping strategy.
 
 h: Look ^asshole^, we *all* have a way of shutting you the ^fuck^ up.
 
@@ -370,7 +370,7 @@ h: Some people throw themselves into work.
 
 `hong({ body:"look_down", eyes:"look_down" });`
 
-h: Some people throw themselves into sex, drugs, and refreshing their Facebook feed.
+h: Some people throw themselves into video games, junk food, and keeping their Snap streak alive.
 
 `hong({ body:"normal", eyes:"look_right" });`
 
@@ -380,7 +380,7 @@ h: Some people throw themselves into other people.
 
 h: I'm going to throw myself into that swimming pool.
 
-[You're drunk and it's SIX FLOORS DOWN](#act3_bad_1_harm)
+[You're wired on caffeine and it's SIX FLOORS DOWN](#act3_bad_1_harm)
 
 [Dang it, this is the thanks I get?!](#act3_bad_1_insult) `bb({eyes:"angry"});`
 

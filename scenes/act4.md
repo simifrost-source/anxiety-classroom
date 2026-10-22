@@ -1241,7 +1241,7 @@ Game.clearText();
 publish("act4-sexy", [true]);
 ```
 
-b: Scars are *sexy.*
+b: Scars are *cool.*
 
 ```
 Game.FORCE_TEXT_Y = -1;

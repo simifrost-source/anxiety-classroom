@@ -1129,26 +1129,26 @@ hong({mouth:"neutral", eyes:"neutral"});
 bb({body:"normal", mouth:"normal", eyes:"normal"});
 ```
 
-h: Whatever. New Tinder notification.
+h: Whatever. New Snap notification. Someone from the party asked for my snap.
 
 `bb({eyes:"uncertain"})`
 
-b: What, that hookup app?
+b: What, some stranger you talked to for five minutes?
 
 `hong({eyes:"annoyed"})`
 
-h: It's not a hookup app, it's just a way to meet new peopl--
+h: They're not a stranger, Snap is just a way to meet new peopl--
 
 `bb({eyes:"narrow"})`
 
-b: It's a hookup app.
+b: They're a stranger.
 
 ```
 hong({eyes:"surprise", mouth:"smile"});
 bb({eyes:"normal"});
 ```
 
-h: Oh, I got a match! They look cute!
+h: Oh, they added me back! They seem nice!
 
 ```
 bb({eyes:"narrow_eyebrow"});
@@ -1174,9 +1174,9 @@ b: DANGER DANGER DANGER DANGER DANGER DANGER
 
 # act1f_used_by_others
 
-`bb({body:"point_crotch", eyes:"normal", mouth:"normal"})`
+`bb({body:"normal", eyes:"normal", mouth:"normal"})`
 
-b: Random hookups may be able to fill the hole down there,
+b: New friends may be able to fill up our weekends,
 
 b: but they can never fill the hole...
 
@@ -1208,7 +1208,7 @@ attack("18p", "alone");
 
 `bb({eyes:"narrow", mouth:"small"})`
 
-b: You think other people's genitals are Pokémon for us to collect?
+b: You think other people are Pokémon for us to collect?
 
 ```
 bb({body:"sing", eyes:"pretty", mouth:"shut"});
@@ -1231,7 +1231,7 @@ bb({mouth:"normal"});
 Game.FORCE_TEXT_DURATION = 2400;
 ```
 
-b: ♫ I wanna be, the ^slut^ti-est-
+b: ♫ I wanna be, the pop-u-lar-est-
 
 (...500)
 
@@ -1249,7 +1249,7 @@ bb({eyes:"pretty"});
 Game.FORCE_TEXT_DURATION = 2300;
 ```
 
-b: ♫ Thighs n' ^ass^, voluptuous breast-
+b: ♫ To collect them is my real test-
 
 (...500)
 
@@ -1258,7 +1258,7 @@ bb({eyes:"fear", mouth:"normal"});
 Game.FORCE_TEXT_DURATION = 2000;
 ```
 
-b: ♫ with sweaty ^dick^ and balls!-
+b: ♫ to use them is my cause!-
 
 (...1000)
 
@@ -1267,7 +1267,7 @@ bb({eyes:"smile", mouth:"smile"});
 Game.FORCE_TEXT_DURATION = 1000;
 ```
 
-b: ♫ PERVY-MON! GOTTA CA-
+b: ♫ FRIENDA-MON! GOTTA CA-
 
 ```
 Game.FORCE_CANT_SKIP = false;

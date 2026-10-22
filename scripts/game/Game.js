@@ -1112,7 +1112,7 @@ if(window.location.search){
 	    queryParams[split[0]] = split[1];
 	});
 }
-if(queryParams.c){
+if(true){ // CLASSROOM EDIT: Cuss-Free Mode is always on
 	window.NO_CUSS_MODE = true;
 }else{
 	var doCuss = document.createElement("style");

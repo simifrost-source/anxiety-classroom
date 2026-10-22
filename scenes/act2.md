@@ -197,7 +197,7 @@ publish("act2",["party_hong","next"]);
 publish("act2",["dum",1]);
 ```
 
-a: Even though you both matched each other on Tinder?
+a: Even though you two added each other on Snap?
 
 ```
 publish("act2",["dum",0]);
@@ -249,9 +249,9 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",3]);
 ```
 
-s: Yeah I dunno! Maybe they think hookups can't fill the hole in their heart?
+s: Yeah I dunno! Maybe they think new friends can't fill the hole in their heart?
 
-s: Stop being such a prude! Open your mind, then open your legs!
+s: Stop being such a hermit! Open your mind, then open your calendar!
 
 ```
 publish("act2",["party_hunter",1]);
@@ -271,7 +271,7 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",3]);
 ```
 
-s: Yeah I dunno! They weren't that hot, but they would have been a nice catch!
+s: Yeah I dunno! They weren't that cool, but they would have been a nice catch!
 
 ```
 publish("act2",["party_hunter",1]);
@@ -766,7 +766,7 @@ b: LIIIIIKES. LIIIIIIIIIIKES.
 
 `bb({body:"scream_a_1"})`
 
-b: Then they'll BITE YOU and turn you into a BRAINLESS BRO and/or THOUGHTLESS THOT!
+b: Then they'll BITE YOU and turn you into a BRAINLESS BRO!
 
 `_.a2_attack_3 = "bad";`
 
@@ -1325,7 +1325,7 @@ sfx("rustle2");
 publish("act2",["party_hunter",11]);
 ```
 
-r: My own specialty blend. It's a bit stronger than... well, anything legal really.
+r: My own specialty blend. Triple the caffeine of a Monster.
 
 ```
 publish("act2",["party_hunter",12]);
@@ -1386,7 +1386,7 @@ bb({body:"frazzled", mouth:"frazzled", eyes:"frazzled"});
 
 h: Mmm, what an exquisite palette!
 
-h: A full-bodied flavor of "shut your mind up," with a subtle aftertaste of "never feel anything ever again"!
+h: A full-bodied flavor of "shut your mind up," with a subtle aftertaste of "who needs sleep anyway"!
 
 b: This is bad, human. This is really, really bad.
 
